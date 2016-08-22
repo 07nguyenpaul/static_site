@@ -1,0 +1,31 @@
+body{
+  font-family: 'Indie Flower', cursive;
+}
+
+header{
+  background-color: #92E0E5;
+  height: 75px;
+}
+
+header h1{
+  float: left;
+  background: url("../images/dog-icon.svg") no-repeat;
+  margin-left: 1em;
+  margin-top: 6px;
+  width: 50px;
+  height: 50px;
+  text-indent: -99999px;
+}
+
+nav ul {
+  float: right;
+}
+
+nav li{
+  display: inline-block;
+  padding: 20px 15px;
+}
+
+nav li:hover{
+   background-color: #3F8DA7;
+ }
